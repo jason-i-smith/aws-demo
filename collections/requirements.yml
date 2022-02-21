@@ -1,0 +1,4 @@
+---
+collections:
+# Install Amazon AWS Collection
+  - name: amazon.aws
